@@ -52,10 +52,10 @@ The dashboard helps analyze content distribution, genres, ratings, and trends ac
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Overview](images/dashboard 1.png)
+![Overview](images/dashboard1.png)
 
 ### 🔹 Insights Dashboard
-![Insights](images/dashboard 2.png)
+![Insights](images/dashboard2.png)
 
 ---
 
